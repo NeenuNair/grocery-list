@@ -1,0 +1,82 @@
+[{
+    "serialnumber":"1",
+    "items":"Rice",
+    "quantity":"10",
+    "unit":"kilogram",
+    "department":"Grocery",
+    "notes":"Pavizham-Matta Rice"
+},
+{
+    "serialnumber":"2",
+    "items":"Sugar",
+    "quantity":"2",
+    "unit":"kilogram",
+    "department":"Grocery",
+    "notes":"White Sugar"
+},
+{
+    "serialnumber":"3",
+    "items":"Atta",
+    "quantity":"2",
+    "unit":"kilogram",
+    "department":"Grocery",
+    "notes":"Aashirvad Chakki Atta"
+},
+{
+    "serialnumber":"4",
+    "items":"Chilli Powder",
+    "quantity":"500",
+    "unit":"gram",
+    "department":"Grocerry",
+    "notes":"Kitchen Treasures"
+},
+{
+    "serialnumber":"5",
+    "items":"Green Gram",
+    "quantity":"1",
+    "unit":"kilogram",
+    "department":"Grocerry",
+    "notes":"Small"
+},
+{
+    "serialnumber":"6",
+    "items":"Orange",
+    "quantity":"1",
+    "unit":"kilogram",
+    "department":"Fruits",
+    "notes":"Fresh"
+},
+{
+    "serialnumber":"7",
+    "items":"Carrot",
+    "quantity":"500",
+    "unit":"gram",
+    "department":"Vegetables",
+    "notes":"Fresh"
+},
+{
+    "serialnumber":"8",
+    "items":"Beans",
+    "quantity":"250",
+    "unit":"gram",
+    "department":"Vegetables",
+    "notes":"Fresh"
+},
+{
+    "serialnumber":"9",
+    "items":"Milk",
+    "quantity":"1",
+    "unit":"liter",
+    "department":"Dairy Products",
+    "notes":"Milma"
+},
+{
+    "serialnumber":"10",
+    "items":"Sanitizer",
+    "quantity":"100",
+    "unit":"millilitre",
+    "department":"Pharmaceuticals",
+    "notes":"Dettol"
+}
+]
+
